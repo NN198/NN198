@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @NN198
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning java programming, React Js and Node Js
+- 📫 How to reach me - Twitter : @spacey_slashg
+
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
