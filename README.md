@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NN198
+- 👋 Hi, I’m Noella 
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning java programming, Angular, React Js and Node Js
 - 📫 How to reach me - LinkedIn: https://www.linkedin.com/in/noella-n/
