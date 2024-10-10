@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Noella 
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning java programming, Angular, React Js and Node Js
-- 📫 How to reach me - LinkedIn: https://www.linkedin.com/in/noella-n/
+- 👋 Aloha and Wilkommen, I’m Noella aka slashg
+- 👀 I’m a Web dev and NLP enthusiast
+- 🌱 I bring a background of backend and frontend development in Java, Python, TypeScript, Angular, React Js and Node Js
+- 📫 Find me on: https://www.linkedin.com/in/noella-n/
 
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
