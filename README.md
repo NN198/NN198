@@ -1,4 +1,4 @@
-- 👋 Aloha and Wilkommen, I’m Noella a passionate Computer Science Major.
+- 👋 Aloha and Wilkommen, I’m Noella a creative and innovative developer
 - 👀 I’m a Web dev and NLP enthusiast
 - 🌱 I bring a background of backend and frontend development in Java, Python, TypeScript, Angular, React Js and Node Js
 - 📫 Find me on: https://www.linkedin.com/in/noella-n/
