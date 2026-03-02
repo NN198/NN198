@@ -7,8 +7,6 @@ I'm Noella!
 
 ## 📊 My GitHub Stats
 
-![GitHub Stats](https://raw.githubusercontent.com/YOU/REPO/main/assets/animations/stats.svg)
-
 Commits     ████████████████████ 1,200
 PRs         ██████████ 456
 Repos       █████ 89
