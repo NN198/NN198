@@ -16,3 +16,15 @@ You can click the Preview link to take a look at your changes.
 
  ![LeetCode Stats](https://leetcard.jacoblin.cool/noellanoronha23?theme=dark&ext=heatmap&ext=contest)) -->
 
+# 👋 Welcome!
+
+## 📊 My GitHub Stats
+
+![GitHub Stats](https://raw.githubusercontent.com/YOU/REPO/main/assets/animations/stats.svg)
+
+### Stats Details
+📊 My GitHub Stats
+
+Commits     ████████████████████ 1,200
+PRs         ██████████ 456
+Repos       █████ 89
